@@ -1,0 +1,11 @@
+{
+    "description": "Unfiltered — challenging narratives",
+    "repo": "https://github.com/leo-osiemo/unfiltered",
+    "owner": {
+        "username": "leo-osiemo",
+        "email": "leoosiemo@gmail.com"
+    },
+    "record": {
+        "CNAME": "leoosiemo.pythonanywhere.com"
+    }
+}
